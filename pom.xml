@@ -39,23 +39,23 @@
 			<version>3.2.2</version>
 		</dependency>
 
-<!--
 
-&lt;!&ndash;		The Following Two Dependency is required for Connect Data Base to spring boot Project&ndash;&gt;
-&lt;!&ndash;		This dependency includes the necessary libraries for working with JPA (Java Persistence API) and Hibernate. It also includes the required configurations for setting up a data source.&ndash;&gt;
+
+		<!--The Following Two Dependency is required for Connect Data Base to spring boot Project&ndash;&gt;
+		This dependency includes the necessary libraries for working with JPA (Java Persistence API) and Hibernate. It also includes the required configurations for setting up a data source.-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 			<version>3.2.2</version>
 		</dependency>
 
-&lt;!&ndash;		You need the PostgreSQL JDBC driver to connect your Spring Boot application to the PostgreSQL database&ndash;&gt;
+<!--		You need the PostgreSQL JDBC driver to connect your Spring Boot application to the PostgreSQL database-->
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
 			<version>42.7.1</version>
 		</dependency>
--->
+
 
 
 <!--		Create Html Template-->

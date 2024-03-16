@@ -1,3 +1,4 @@
+/*
 package com.example.practiceservice1.config;
 
 import org.springframework.beans.factory.annotation.Value;
@@ -30,3 +31,4 @@ public class SwaggerUiWebMvcConfigurer implements WebMvcConfigurer {
                 .setViewName("forward:" + baseUrl + "/swagger-ui/index.html");
     }
 }
+*/
